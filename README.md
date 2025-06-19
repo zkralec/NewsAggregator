@@ -1,1 +1,2 @@
-Scrapes various different news websites and complies a few CSV files which contain headlines, teasers, and summaries from individual news stories.
+# News Aggregator
+A multi-source scraper that collects and summarizes top headlines from NPR, TechCrunch, Hacker News, and BBC. Each article pulls a quick summary (or full text if needed) for fast reading. This project helped me explore how to extract meaningful content from real-world HTML structures.
